@@ -1,6 +1,0 @@
-friends are lifeline..
-<<<<<<< Updated upstream
-it is my devops class
-=======
-i am pressent today..
->>>>>>> Stashed changes
